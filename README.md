@@ -1,4 +1,5 @@
 <div align="center">
+<img width="1500" height="700" alt="ChatGPT Image Jul 5, 2026, 02_25_52 AM" src="https://github.com/user-attachments/assets/8a1824ab-313d-4dbf-9d3a-ba5ab131eea0" />
 
 # 🪔 Bengali Shadi — শুভ বিবাহ
 
